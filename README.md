@@ -11,4 +11,5 @@ You can put your server logo or you can advertise for your server, for example D
 
 
 
-https://user-images.githubusercontent.com/113845801/191280416-584b6970-965a-4bf5-8293-816adfb1e9f4.png
+
+![Screenshot (151)](https://user-images.githubusercontent.com/113845801/191281523-88d30517-9d7b-4ebb-bee8-7dcfb51a51b7.png)
